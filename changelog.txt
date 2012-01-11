@@ -1,0 +1,15 @@
+Changelog
+
+v1.3
+- Added a toggle to the menu (Playback->Remove played tracks)
+
+v1.2
+- Using another way to find out if a song has been played
+
+v1.1
+Fixed some bugs:
+- Tracks are removed instantly instead of with 1 sec. delay
+- Tracks are also removed if they are the last item of the playlist
+
+v1.0
+- Initial Release
